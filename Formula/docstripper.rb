@@ -6,7 +6,7 @@ class Docstripper < Formula
   homepage "https://github.com/kiku-jw/DocStripper"
   url "https://github.com/kiku-jw/DocStripper/archive/refs/tags/v2.1.0.tar.gz"
   version "2.1.0"
-  sha256 "" # TODO: Calculate after creating release
+  sha256 "4b0a688c530ca596b9dba7d6494adf06011e287d20fe9e16d4b06876d8fdb273"
   license "MIT"
 
   depends_on "python@3.9"
