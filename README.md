@@ -19,3 +19,7 @@ docstripper file1.txt file2.docx file3.pdf
 ## Documentation
 
 See the [main repository](https://github.com/kiku-jw/DocStripper) for full documentation.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
